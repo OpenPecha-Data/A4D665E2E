@@ -1,0 +1,19 @@
+id: A4D665E2E
+title: Prayer to Gyarong Khandro Dechen Wangmo
+type: translation
+pechas:
+- IDF11477F
+- I04902FD0
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:59:26.604275
+  last_modified_at: 2023-01-04 11:59:26.604290
+  collections:
+  - Gyarong Khandro Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IDF11477F/34F6: '6659'
+  I04902FD0/5D45: '6659'
